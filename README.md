@@ -2,7 +2,12 @@
 A collection of Google Colab notebooks for phylogenetic models implemented in [MolecularEvolution.jl](https://github.com/MurrellGroup/MolecularEvolution.jl) so you can test our models in the cloud.
 
 # Available notebooks:
-### FUBAR - a fast Bayesian approach for identifying sites under pervasive positive or purifying selection
+### difFUBAR - comparing selection on predefined clades
+<a href="https://colab.research.google.com/github/MurrellGroup/ColabMolecularEvolution/blob/main/notebooks/difFUBAR.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### FUBAR - a fast Bayesian approach for identifying sites under pervasive positive or purifying selection (NEEDS UPDATING FOR COLAB JULIA KERNEL).
 <a href="https://colab.research.google.com/github/MurrellGroup/ColabMolecularEvolution/blob/main/notebooks/ColabMolecularEvolution_FUBAR.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
