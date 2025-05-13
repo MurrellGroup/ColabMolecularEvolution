@@ -7,8 +7,8 @@ A collection of Google Colab notebooks for phylogenetic models implemented in [M
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### FUBAR - a fast Bayesian approach for identifying sites under pervasive positive or purifying selection (NEEDS UPDATING FOR COLAB JULIA KERNEL).
-<a href="https://colab.research.google.com/github/MurrellGroup/ColabMolecularEvolution/blob/main/notebooks/ColabMolecularEvolution_FUBAR.ipynb">
+### FUBAR - a fast Bayesian approach for identifying sites under pervasive positive or purifying selection.
+<a href="https://colab.research.google.com/github/MurrellGroup/ColabMolecularEvolution/blob/main/notebooks/FUBAR.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
